@@ -41,19 +41,11 @@ PHP, MySQL
 C, Python, Java  
 
 **Tools:**  
-Git, GitHub, Firebase, XAMPP  
+Git, GitHub, Firebase, XAMPP ,Vscode ,Bootstrap 
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 🌱 Currently Learning  
 
@@ -65,8 +57,8 @@ Git, GitHub, Firebase, XAMPP
 
 ## 🤝 Connect With Me  
 
-🔗 LinkedIn: https://www.linkedin.com/  
-📧 Email: your-email@example.com  
+🔗 LinkedIn: https://www.linkedin.com/in/divypatel2025 
+📧 Email: divypatel0425@gmail.com  
 
 ---
 
