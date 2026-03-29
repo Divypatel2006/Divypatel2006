@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Divy Patel  
 
-<!--
-**Divypatel2006/Divypatel2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;BCA+Student+(2026);Passionate+About+Coding;Building+Real+World+Projects;Always+Learning+New+Tech" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me  
+
+🎓 BCA Final Year Student (2026)  
+📍 Gujarat, India  
+💡 Passionate about Web Development & Problem Solving  
+
+I love building full-stack applications and turning ideas into real-world projects. I enjoy working on both frontend and backend, and continuously improving my development skills.
+
+---
+
+## 🚀 What I’m Building  
+
+🔹 **E-Saloon Management System**  
+Full-stack system with login, booking, admin panel, chatbot & voice booking  
+
+🔹 **Student Data Management System**  
+Automating academic data handling to reduce manual work  
+
+🔹 **Modern Web Projects**  
+Responsive websites with clean UI/UX  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+HTML, CSS, JavaScript  
+
+**Backend:**  
+PHP, MySQL  
+
+**Languages:**  
+C, Python, Java  
+
+**Tools:**  
+Git, GitHub, Firebase, XAMPP  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+
+✔ Advanced JavaScript  
+✔ Backend Development  
+✔ Database Optimization  
+
+---
+
+## 🤝 Connect With Me  
+
+🔗 LinkedIn: https://www.linkedin.com/  
+📧 Email: your-email@example.com  
+
+---
+
+## 🎯 Goal  
+
+To become a skilled Full Stack Developer and build impactful software solutions.
+
+---
+
+⭐ *"Code. Build. Learn. Repeat."*
